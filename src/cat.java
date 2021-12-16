@@ -1,3 +1,3 @@
 public class cat {
-    String name = "tom";
+    String name = "mango";
 }
